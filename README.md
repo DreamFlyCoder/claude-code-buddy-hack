@@ -3,8 +3,8 @@
 
 
 ## You can quickly get started by reading 
-buddy-hack-guide-readme-en.md  `English`
-buddy-hack-guide-readme-zh.md  `简体中文`
+* buddy-hack-guide-readme-en.md  `English`
+* buddy-hack-guide-readme-zh.md  `简体中文`
 
 ## Copyright and Disclaimer
 
