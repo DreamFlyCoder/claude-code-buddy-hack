@@ -1,10 +1,17 @@
 # claude-code-buddy-hack
-* Choose your favorite claude-code-buddy autonomously, have buddies with different abilities to accompany you in coding.
+* Choose your favorite claude-code-buddy autonomously, have buddies with different abilities to accompany you in coding.You can very easily obtain your customized buddy through just two simple conversations with Claude.
+<img width="1280" height="274" alt="image" src="https://github.com/user-attachments/assets/2bd0e5d9-a553-4317-b6e2-35535661f677" />
 
 
 ## You can quickly get started by reading 
 * buddy-hack-guide-readme-en.md  `English`
 * buddy-hack-guide-readme-zh.md  `简体中文`
+
+## Image example
+<img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/cbd31109-a655-49fd-96bf-7f97511479ff" />
+<img width="1280" height="859" alt="image" src="https://github.com/user-attachments/assets/7b388521-1fcd-43ba-811f-de8f5300d474" />
+<img width="1280" height="844" alt="image" src="https://github.com/user-attachments/assets/28bd64f0-466d-47cc-8c1a-1cec43c1fd9e" />
+
 
 ## Copyright and Disclaimer
 
